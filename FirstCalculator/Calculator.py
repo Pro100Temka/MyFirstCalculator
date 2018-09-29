@@ -1,5 +1,4 @@
 # Modul for GUI interface. 
-#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 from tkinter import *
 from tkinter import messagebox
 # Modul for some mathematical operations.
